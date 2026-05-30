@@ -1,0 +1,2 @@
+terraform/** linguist-documentation
+*.tfvars linguist-documentation
